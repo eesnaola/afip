@@ -1,9 +1,9 @@
 {
-    "name": "gonzaloalonsod/afip-bundle",
+    "name": "eesnaola/afip-bundle",
     "type": "symfony-bundle",
     "description": "Web Services de AFIP",
     "keywords": ["afip", "web", "services"],
-    "homepage": "https://github.com/gonzaloalonsod/afip",
+    "homepage": "https://github.com/eesnaola/afip",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "afipsdk/afip.php": "^0.7"
+        "eesnaola/afip.php": "^1"
     },
     "config": {
         "sort-packages": true
